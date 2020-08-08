@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<books>
+	<book>
+		<id>145</id>
+		<name>Давай позавтракаем!</name>
+		<author>Олеся Куприн</author>
+		<price>12778.88</price>
+	</book>
+	<book>
+		<id>232</id>
+		<name>Цена вопроса</name>
+		<author>Маринина А.</author>
+		<price>1425.22</price>
+	</book>
+	<book>
+		<id>543</id>
+		<name>Сказки лесной опушки</name>
+		<author>Эббот Меган</author>
+		<price>273</price>
+	</book>
+	<book>
+		<id>46</id>
+		<name>Заячьи лапы</name>
+		<author>Паустовский К.Г.</author>
+		<price>51</price>
+	</book>
+</books>
